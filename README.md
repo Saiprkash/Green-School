@@ -9,11 +9,14 @@ For each plant, the website includes details such as:
 4) Origin
 5) Medicinal value
 6) Characteristics
+
 The project was created to combine web development with learning about plants and biodiversity.
-*Technologies Used
+
+Technologies Used:
 1.HTML
 2.CSS
 3.JavaScript
+
 Features
 Information about multiple plants
 Scientific and common names
@@ -24,6 +27,8 @@ Characteristics of each plant
 Simple and user-friendly presentation
 Live Website
 Visit the website
+using (https://website-project-main-two.vercel.app/)
+
 What I Learned
 Through this project, I gained practical experience in:
 Structuring webpages using HTML
