@@ -37,6 +37,8 @@ Organizing large amounts of information clearly
 Working with images and webpage content
 Building and deploying a website
 Understanding how a complete webpage comes together as a project
-Author
+
+Author:
 Saiprakash
+
 This project was created as part of a school project and helped me develop my interest in web development.
