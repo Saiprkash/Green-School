@@ -1,0 +1,89 @@
+h1{
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(245, 171, 87);
+}
+body{
+  background-color: rgb(243, 235, 213);
+  line-height: 1.2;
+  font-family: sans-serif;
+}
+.topic{
+  background-color: rgb(243, 214, 153);
+  
+}
+
+img{
+  border-radius: 15px;
+  margin-right: 20px;
+}
+
+.image:hover{
+  transition-duration: 1s;
+  width: 180px;
+  height: auto;
+  border-radius: 20px;
+  margin-right: 5%;
+
+}
+.italics{
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+
+}
+.vid{
+  border: 3px solid rgb(245, 171, 87);
+  margin-bottom: 30px;
+}
+#head{
+  background-color: rgb(245, 171, 87);
+  text-align: center;
+}
+.video:hover{
+  transition-duration: 1s;
+  width: 380px;
+  height: auto;
+  border-radius: 20px;
+  
+}
+.image:not(:hover){
+  transition-duration: 1s;
+  width: 150px;
+  height: auto;
+  border-radius: 20px;
+}
+.video:not(:hover){
+  transition-duration: 0.5s;
+  width: 350px;
+  height: auto;
+  border-radius: 20px;
+}
+video{
+  border-radius: 15px;
+
+}
+.video{
+  float:inherit;
+}
+.container{
+  position: relative;
+  margin-bottom: 5%;
+}
+footer p{
+  font-size: 18px;
+  font-style: italic;
+}
+div h3 em{
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+/* table:hover{
+  font-size: 22px;
+  transition-duration: 1s;
+
+} */
